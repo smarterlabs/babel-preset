@@ -11,12 +11,11 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/smarterlabs/labs.git",
-		"directory": "packages/@smarterlabs/babel-preset"
+		"url": "git@github.com:smarterlabs/babel-preset.git"
 	},
-	"homepage": "https://github.com/smarterlabs/labs/tree/master/packages/@smarterlabs/babel-preset#readme",
+	"homepage": "https://github.com/smarterlabs/babel-preset/tree/master/#readme",
 	"bugs": {
-		"url": "https://github.com/smarterlabs/labs/issues"
+		"url": "https://github.com/smarterlabs/babel-preset/issues"
 	},
 	"keywords": [
 		"smarter",
